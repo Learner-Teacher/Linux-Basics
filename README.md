@@ -1,7 +1,7 @@
 # Linux Basics
 
 [![DarkWeb](image/darkweb.png)](https://t.me/DarkWeb_o0o)
-<img src="image/darkweb.png" width="600" height="200" align="absmiddle" title="Star" />
+<img src="image/darkweb.png" width="1000" height="200" align="absmiddle" title="Star" />
 
 *Click <img src="image/star.png" width="18" height="18" align="absmiddle" title="Star" /> if you like the project. Pull Request are highly appreciated.*
 
