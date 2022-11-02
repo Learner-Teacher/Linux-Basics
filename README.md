@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-* [User Information](#1-foydalanuvchi-haqida-malumot)
+* [Foydalanuvchi haqida ma'lumot](#1-foydalanuvchi-haqida-malumot)
 * [File and Directory Commands](#-2-file-and-directory-commands)
 * [File Permissions](#-3-file-permissions)
 * [Networking](#-4-networking)
